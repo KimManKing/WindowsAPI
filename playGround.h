@@ -5,7 +5,7 @@
 #include "saveLoadTest.h"
 
 #define SPEED 5
-#define BULLETMAX 500
+#define BULLETMAX 500 // 완재형 미워
 
 
 struct tagtest
